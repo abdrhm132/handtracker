@@ -21,7 +21,7 @@ def get_facebook_data(access_token):
         print("Terjadi kesalahan:", e)
 
 # Masukkan akses token Anda di sini
-access_token = 'EAAD5aUFZCI6EBO8TxeCTAsY7G4ZB2b0ZBqGpqQ96A2eCdyx5cJAU3IkJI5F6J2oTtWGweIsOFJaEbF9Pipacpss7UyexNr8NcHgH4MQls7jAZAGIhGhDMFuyYc2VOgOJHrhNUfEzSjfYzBSWTEv8JCjcDjPJZCvZAgxUH9mwfPmNALZBCAyJVcd0esDQxMyvPNc39KrQZC1sxLT9GxaMZBcBGo4fGBWKuL0Yo7kUjhefO6DVzKHYjLWS7ieFDXYdzdwZDZD'
+access_token = ' ' # masukan token fb
 get_facebook_data(access_token)
 
 
